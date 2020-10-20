@@ -1,0 +1,1 @@
+## Aqui ficará uma lista de casos de refatoração via CDD
