@@ -6,7 +6,7 @@
 
 - Em caso de excesso de complexidade, será retornado um ComplexityOverflowException. 
 
-- A referência ao 'overflow' vai de encontro com a teoria, já que temos um limite em relação ao fluxo de complexidade que podemos processar. Se complicarmos muito, o programar vai printar overflow. 
+- A referência ao 'overflow' vai de encontro com a teoria, já que temos um limite em relação ao fluxo de complexidade que podemos processar. Se complicarmos muito, o programa vai printar overflow. 
 
 
 
