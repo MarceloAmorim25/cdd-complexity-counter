@@ -1,4 +1,4 @@
-## Complexity Pointer
+## Complexity Counter
 
 - Para conhecer o Cognitive Driven Development: https://github.com/asouza/pilares-design-codigo/blob/master/ICSME-2020-cognitive-driven-development.pdf
 
